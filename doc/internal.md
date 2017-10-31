@@ -51,11 +51,11 @@ minus - 3 width)
 
 ### float
 
-A int has a bit pattern of
+A float has a bit pattern of
 ```
-xx101
+xx111
 ```
-The remaining bits are the integer (this gives int's the systems pointer size
+The remaining bits are the floats (this gives floats's the systems pointer size
 minus - 3 width)
 
 ## list
